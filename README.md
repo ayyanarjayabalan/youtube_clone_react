@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Youtube clone app using React JS and RAPID API
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
